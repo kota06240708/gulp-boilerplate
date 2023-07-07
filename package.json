@@ -99,7 +99,7 @@
     "prettier": "^2.1.2",
     "puglint-stylish": "^1.1.0",
     "raw-loader": "^4.0.2",
-    "stylelint": "^13.7.2",
+    "stylelint": "^15.10.1",
     "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-standard": "^20.0.0",
     "stylelint-scss": "^3.18.0",
